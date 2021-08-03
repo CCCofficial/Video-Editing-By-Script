@@ -1,0 +1,26 @@
+************* LECTURE 9_21 ********
+Tracking Objects
+
+00:00:23:START_SEG:9_16 1 Review Detection And Shape Features
+00:03:59:STOP_SEG
+
+00:03:59:START_SEG:9_16 2 Tracking Multiple Objects
+00:08:04:STOP_SEG
+
+00:08:37:START_SEG:9_16 3 Tracking Method A
+00:08:46:STOP_SEG
+
+00:09:00:START_SEG:9_16 4 Tracking Method B
+00:17:18:STOP_SEG
+ 
+00:17:39:START_SEG:9_16 5 Tracking Method C
+00:21:13:STOP_SEG
+ 
+00:27:34:START_SEG:9_16 6 Coding Approach
+00:35:27:STOP_SEG
+
+00:35:50:START_SEG:9_16 7 Code Details A
+00:43:35:STOP_SEG
+
+00:43:50:START_SEG:9_16 8 Code Details B
+00:51:24:STOP_SEG
