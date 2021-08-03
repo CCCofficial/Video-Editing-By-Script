@@ -1,7 +1,8 @@
 # Video-Editing-By-Script
 
 Edits video into separate video segments from a tagged text script. 
-Works for any transcript format. Insert these tags into your transcript file in this exact format
+Works for any transcript format. Insert these tags into your transcript file in this exact format.
+Requires ffmpeg.exe to be installed in path or in the same directory as this program (www.ffmpeg.org)
 
 00:15:10:START_SEG: Title Of Segment   
 00:19:33:STOP_SEG                   
