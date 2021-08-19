@@ -9,7 +9,6 @@ Requires ffmpeg.exe to be installed in path or in the same directory as this pro
 
 The first tag tells the program where to start the video segment and gives it the name "Title_Of_Segment.mp4", replacing spaces with '_'.
 The second tag tells the program where to stop the video segment. 
-Make sure there are not any extra spaces after STOP_SEG or else it will not recognize the command!
 
 Tom Zimmerman, IBM Research-Almaden
 This work is funded by the National Science Foundation (NSF) grant No. DBI-1548297, Center for Cellular Construction.
