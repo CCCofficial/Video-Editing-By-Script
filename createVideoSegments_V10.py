@@ -28,7 +28,7 @@ videoOutDir=r'C:\Video\mySegments\\'    # where to put the segments
 
 ############ USER SETTINGS #################
 RE_ENCODE=0     # set to 1 to re-encode video segments, slower but necessary if no movement in beginning of video (e.g. just static opening slide)
-CREATE_VIDEO=0  # set to 1 to enable creation of video, set to 0 to debug program without creating videos
+CREATE_VIDEO=1  # set to 1 to enable creation of video, set to 0 to debug program without creating videos
 LEAD_TIME=3     # time added before and after video clip (seconds) MUST BE LESS THAN 60 ! ! !
 
 ############ FUNCTIONS #############
